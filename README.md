@@ -23,7 +23,7 @@ Shell + Ansible (or Nix flake), GNU stow-style symlinking.
 ## Usage
 
 ```bash
-git clone https://github.com/moveeeax/dotfiles-bootstrap ~/.dotfiles
+git clone https://github.com/cybercapybara/dotfiles-bootstrap ~/.dotfiles
 cd ~/.dotfiles && ./bootstrap.sh
 ```
 
